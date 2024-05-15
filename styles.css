@@ -1,1 +1,57 @@
 /*  your css code here. If applicable */
+.mainContainer{
+	background-color: #8bb095;
+	width: 1100px;
+}
+img{
+	width: 300px;
+	height:200px;
+	padding: 20px;
+	margin-top: 10px;
+}
+table{
+	border: 1px solid black;
+}
+td{
+	border: 1px solid black;
+}
+.firstColumn{
+	width: 200px;
+}
+.secondColumn{
+	width: 600px;
+	
+}
+#para12{
+	width:600px;
+	text-align:center;
+	justify-content: center;
+}
+.thirdColumn{
+	width: 200px;
+}
+#image11{
+	width: 150px;
+	height: 150px;
+}
+#image13{
+	width: 150px;
+	height: 150px;
+}
+#para21{
+	margin: 10px;
+}
+#para22{
+	margin: 10px;
+	text-align:center;
+}
+#image23{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 20px;
+	
+}
+#para23{
+	margin: 10px;
+}
